@@ -1,1 +1,1 @@
-# Git Exercice
+# Git Exercise
