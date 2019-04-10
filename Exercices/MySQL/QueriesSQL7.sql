@@ -3,3 +3,4 @@ from flights
 where flights.ArrDelay  >10
 group by UniqueCarrier	
 Order by avg(flights.ArrDelay) desc;
+ 

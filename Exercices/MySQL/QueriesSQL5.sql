@@ -10,3 +10,4 @@ GROUP BY flights.Origin, flights.colYear, flights.colMonth
 Order by total_cancelled Desc
 
 
+ 
