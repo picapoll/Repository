@@ -7,9 +7,9 @@ Els usuaris podran consultar el llistat de recorreguts així com d'altres inform
 ## Necessitats Web:
 	*Login
 	*Cercador
-		* Esport 
-		* Distancia
-		* Llistat de Rutes
+		○ Esport 
+		○ Distancia
+		○ Llistat de Rutes
 	* Mapa
 	* Imprimir Rutes en el Mapa
 	* Afegir Rutes
