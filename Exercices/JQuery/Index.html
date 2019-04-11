@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <style>
+        p {
+            color: red;
+            margin: 5px;
+            cursor: pointer;
+        }
+
+            p:hover {
+                background: yellow;
+            }
+    </style>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <script>
+
+        $(document).ready(function () {
+            $("#My_Btn").click(function () {
+                $("#demo").html("Ahora soy un texto ;)");
+            });
+
+            $("p").click(function () {
+                $(this).remove();
+            })
+            
+            $(".button").click(function () {
+                var str = $(this).text();
+                $("#p_result").html(str);
+                if (str == 'red') $("#p_result").css("color","#fc1111");
+                else if (str == 'blue') $("#p_result").css("color", "#3262ff");
+                console.log(str);
+            });
+            
+            
+            
+        });
+    </script>
+</head>
+
+<body>
+    <p> Em dic Bernat</p>
+    <div id="Mi_titulo">Mi Titulo</div>
+    <div class="Mi_clase">Soy una clase con mucha clase</div>
+    <div id="demo">Me transformo</div>
+    <button id="My_Btn">Clickea</button>
+    <p>First Paragraph</p>
+    <p>Second Paragraph</p>
+    <p>Yet one more Paragraph</p>
+    <button type="button" class="button">red</button>
+    <button type="button" class="button">blue</button>
+
+    <p id="p_result"></p>
+
+</body>
+
+</html>
