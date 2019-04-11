@@ -1,7 +1,8 @@
 # Checkin and Run
 
 Aplicació destinada a buscar rutes marcades o realitzades per altres usuaris per poguer fer a peu o corrent al costat dels hotels on s'allotgen.
-Els usuaris podran consultar el llistat així com trobar més informació del hotel.
+
+Els usuaris podran consultar el llistat de recorreguts així com d'altres informacions relacionades amb l'Hotel( Restaurants, Activitats, Promocions..)
 
 ## Necessitats Web:
 	*Login
