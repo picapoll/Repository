@@ -17,7 +17,7 @@ Els usuaris podran consultar el llistat de recorreguts així com d'altres inform
 		○ Restaurants
 
 ## Mockup
-  [Mockup de l'aplicació web] (https://ninjamock.com/s/FGFCRDx)
+  [Mockup de l'aplicació web](https://ninjamock.com/s/FGFCRDx)
 
 
 ## Tecnologies 
