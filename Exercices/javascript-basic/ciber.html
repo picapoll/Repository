@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>El Ciber</title>
+</head>
+
+<body>
+    <form name="frmadd">
+        Num1<input type="number" name="txt1"><br>
+        Num2<input type="number" name="txt2"><br>
+        
+        Operacio: <input type="button" value="+" name="but1" onClick="addNum()">
+        <input type="button" value="-" name="but2" onClick="subNum()">
+        <input type="button" value="x" name="but3" onClick="mulNum()">
+        <input type="button" value="/" name="but4" onClick="divNum()"><br>
+        Result<input type="text" name="txt3" disabled><br>
+    </form>
+    <script>
+	
+
+   
+
+
+
+    console.log("Hola Mundo");
+
+    window.alert("Em dic Bernat");
+
+    var name = "Bernat";
+    var surname = "Moragas"
+
+    console.log(name + " " + surname);
+
+    var num1 = 15;
+    var num2 = 5;
+    var result = num1+num2
+    console.log("La suma entre " + num1 + " y " + num2 + " = " + result);
+
+    var Exam = 3;
+
+    if (Exam > 5) {
+        window.alert("Bravo, has aprovat amb un " + Exam);
+    } else {
+        window.alert("Oooo, has suspes amb un " + Exam);
+    };
+
+    var sentence = "tinc un cotxe verd";
+    var res = sentence.replace("verd", "blau");
+    var res2 = res.replace("o", "u");
+
+    console.log(res);
+    console.log(res2);
+
+    var arr = ["taula", "cadira", "ordinador", "libreta"];
+    for (i = 0; i < arr.length; i++) {
+        console.log("L'objecte " + arr[i] + " esta a la posicio " + i);
+    };
+
+    var operador = "-";
+    var valor1 = 40;
+    var valor2 = 20;
+
+
+     function addNum() {
+        num1 = parseInt(document.frmadd.txt1.value);
+        num2 = parseInt(document.frmadd.txt2.value);
+        num3 = num1 + num2;
+        document.frmadd.txt3.value = num3;
+    }
+
+    function subNum() {
+        num1 = parseInt(document.frmadd.txt1.value);
+        num2 = parseInt(document.frmadd.txt2.value);
+        num3 = num1 - num2;
+        document.frmadd.txt3.value = num3;
+    }
+
+    function mulNum() {
+        num1 = parseInt(document.frmadd.txt1.value);
+        num2 = parseInt(document.frmadd.txt2.value);
+        num3 = num1 * num2;
+        document.frmadd.txt3.value = num3;
+    }
+
+    function divNum() {
+        num1 = parseInt(document.frmadd.txt1.value);
+        num2 = parseInt(document.frmadd.txt2.value);
+        num3 = num1 / num2;
+        document.frmadd.txt3.value = num3;
+    }
+
+
+   
+    </script>
+</body>
+
+</html>
