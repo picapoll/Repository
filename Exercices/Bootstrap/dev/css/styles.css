@@ -8,3 +8,12 @@
 	padding-top: 60px;
 	padding-left: 15px;
 }
+
+.error {
+	color: #F00;
+	background-color: #FFF;
+	}
+	
+/* 	Review */
+#hearts { color: #FF0000;}
+#hearts-existing { color: #FF0000;}
