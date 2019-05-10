@@ -1,8 +1,7 @@
 var latitude= 0;
 var longitude =0;
 var activityType = "toBeDefined";
-var minDistance=document.getElementById("minDistance").value;
-var maxDistance=document.getElementById("maxDistance").value;
+
 
 function init() {
     var input = document.getElementById('LocationSearch');

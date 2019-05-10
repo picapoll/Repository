@@ -1,5 +1,28 @@
+html,
+body {
+  height: 100%;
+}
+ 
+#page-content {
+  flex: 1 0 auto;
+}
+
+#sticky-footer {
+  flex-shrink: none;
+}
+
+/* Other Classes for Page Styling */
+
+#main{
+	height: 100%;
+}
+
+.row{
+	height: 100%;
+}
+
 #mapid { 
-    height:500px;
+    height:100%;
     
  }
 
@@ -9,11 +32,11 @@
 	padding-left: 15px;
 }
 
+
+
 .error {
 	color: #F00;
 	background-color: #FFF;
 	}
 	
-/* 	Review */
-#hearts { color: #FF0000;}
-#hearts-existing { color: #FF0000;}
+	/* Review */

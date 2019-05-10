@@ -5,18 +5,18 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- CSS -->
     <link rel="stylesheet" type="text/css" href="css/styles.css">
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- Reating-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/rateYo/2.2.0/jquery.rateyo.min.css">
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-star-rating/4.0.2/css/star-rating.min.css" />
     <!-- Leaflet-->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
         integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
         crossorigin="" />
-    <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
-        integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
-        crossorigin=""></script>
-
     <!-- Bootstrap CSS -->
-    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
@@ -25,7 +25,7 @@
     <title>Hello, world!Let's run! ;)</title>
 </head>
 
-<body>
+<body class="d-flex flex-column">
     <!--Navbar-->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <a class="navbar-brand" href="#">Logo</a>
@@ -38,16 +38,16 @@
                 <li class="nav-item active">
                     <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
                 </li>
-                <li cla="nav-item">
+                <li class="nav-item">
                     <a class="nav-link" href="#">Contact</a>
                 </li>
                 <li class="nav-item"></li>
                 <!--<a class="nav-link" data-toggle="modal" data-target="#exampleModal">Login</a>-->
                 <a href="#myModal" class="nav-link" data-toggle="modal">Login</a>
         </div>
-        
 
-        <!-- Modal HTML -->
+
+        <!-- Modal Login HTML -->
         <div id="myModal" class="modal fade">
             <div class="modal-dialog modal-login">
                 <div class="modal-content">
@@ -89,9 +89,9 @@
 
     <!--Content-->
 
-    <div class="container-fluid ">
-        <div class="row ">
-            <div class="col-sm-4 first-column ">
+    <div id="main" class="container-fluid ">
+        <div class="row">
+            <div class="col-md-3 first-column ">
 
                 <form id="Search-form" onsubmit="return false">
                     <fieldset>
@@ -115,12 +115,12 @@
                         </div>
                     </div>
                     <div class="form-row">
-                    <div class="form-group col-md-12">
-                        <label class="text-dark" for="Place">Min Distance</label>
-                        <input id="minDistance" class="form-control" name="minDistance" type="number"
-                            placeholder="Min Distance to Run">
+                        <div class="form-group col-md-12">
+                            <label class="text-dark" for="Place">Min Distance</label>
+                            <input id="minDistance" class="form-control" name="minDistance" type="number"
+                                placeholder="Min Distance to Run">
+                        </div>
                     </div>
-                </div>
                     <div class="form-row">
                         <div class="form-group col-md-12">
                             <label class="text-dark" for="Place">Max Distance</label>
@@ -135,7 +135,7 @@
                     </div>
                 </form>
             </div>
-            <div class="col-sm-8 second-column ">
+            <div class="col-md-9 second-column ">
                 <div id="mapid"></div>
             </div>
         </div>
@@ -143,18 +143,60 @@
     </div>
 
     <!--Contend of content-->
+    <!-- Modal Reating -->
+    <div id="myModal2" class="modal fade" role="dialog">
+        <div class="modal-dialog">
+    
+    
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Feedback</h4>
+                </div>
+                <div class="modal-body">
+                    <div id="message" style="text-align: center; color: green;"></div>
+                    <div class="form-group">
+                        <span id="updatecapacitymodalerrortext" style="color:red"></span>
+                    </div>
+                    <div class="form-group">
+                        <label style="display:inline-block" class="col-md-4">Nombre : </label>
+                        <div style="display:inline-block;" class="col-md-6"><input type="text" class="form-control"
+                                size="10" id="capacity_txt_modal" />
+                        </div>
+    
+                    </div>
+                    <label style="display:inline-block;" for="input-1" class="control-label">Rate This</label>
+                    <div style="display:inline-block;" id="rateYo"></div>
+                    <input type="hidden" name="rating" id="rating_input" />
+                    <br />
+                    <button type="button" id="updateCapacityBtn" class="btn btn-info ">Save</button>
+                    <button type="button" id="capacityModalClose" class="btn btn-default"
+                        data-dismiss="modal">Close</button>
+                </div>
+            </div>
+            <div class="modal-footer">
+            </div>
+    
+        </div>
+    </div>
+
+    <!-- END Modal Rating -->
 
     <!--footer-->
-    <footer class="page-footer font-small blue bg-primary">
+    <footer id="sticky-footer" class="page-footer font-small blue bg-primary">
+
         <!-- Copyright -->
-        <div class="footer-copyright text-center py-3 text-light">© 2018 Copyright:
-            <a class="text-light" href="#"> BMR.com</a>
+        <div class="footer-copyright text-center py-3">© 2018 BMR:
+            <a href=#> BMR.com</a>
         </div>
+        <!-- Copyright -->
     </footer>
     <!--End of footer-->
 
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-  
+    <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
+        integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
+        crossorigin=""></script>
     <script type="text/javascript"
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyADE5ppQX33NInH4sWbhofe_ZADEb-22sA&libraries=places"></script>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
@@ -162,7 +204,8 @@
         crossorigin="anonymous"></script>
     <script src="js/leaflet.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.4.0/gpx.min.js"></script>
-    
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-star-rating/4.0.2/js/star-rating.min.js"></script>
     <script type="text/javascript"
         src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.0/jquery.validate.min.js"></script>
     <script src="js/search_validation.js"></script>
@@ -170,13 +213,21 @@
     <script src="js/login.js"></script>
     <script src="js/search.js"></script>
     <script src="js/review.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="js/rateyo.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
         integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
         crossorigin="anonymous"></script>
-       <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script> 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
 
-    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.0/dist/jquery.validate.min.js"></script>
+    <script type="text/javascript"
+        src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.0/dist/jquery.validate.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/rateYo/2.2.0/jquery.rateyo.min.js"></script>
+
+
+
 
 </body>
 
