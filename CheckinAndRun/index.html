@@ -5,49 +5,82 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width = device-width, initial-scale = 1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    
+
     <link rel="stylesheet" type="text/css" href="css/styles.css">
-    <link rel = "stylesheet" href = "https://www.w3schools.com/lib/w3.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/lib/w3.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
+        integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+        crossorigin="" />
+
     <title> CheckIn and Run </title>
 
-    </head>
+</head>
 
 <body>
-    <nav class="navbar"> 
-            <img class="logo" src="img/learner.png"> 
-            <a href="#"><i class="fa fa-fw fa-user"></i>Login</a>
-            <a href="#"><i class="fa fa-fw fa-envelope"></i>Contact</a>
-            <a class="acive" href="#"><i class="fa fa-fw fa-home"></i>Home</a>
+    <nav class="navbar">
+        <img class="logo" src="img/learner.png">
+        <a href="#"><i class="fa fa-fw fa-user"></i>Login</a>
+        <a href="#"><i class="fa fa-fw fa-envelope"></i>Contact</a>
+        <a class="acive" href="#"><i class="fa fa-fw fa-home"></i>Home</a>
     </nav>
 
     <div class="content">
-        <div class="column  w3-blue"> 
-            <h2>Routes Sesarcher</h2>
-            <label for="hotel">Name of the Hotel</label>
-            <input type="text" id="hotel" name="hotel_name">
-            <label for="sport">Activity Type</label>
-            <select id="sport" name="sport_type">
-                <option value="Running">Running</option>
-                <option value="cycling">Cycling</option>
-            </select>
-            <p>Some text..</p>
-        </div>
-        
+
         <div class="column  w3-blue">
-            <p>Right</p>
-            <h2>Column 2</h2>
-            <p>Some text..</p>
+
+            <form id="search">
+                <h2>Routes Searcher</h2>
+                <label for="hotel" class="etiqueta">Name of the Hotel</label>
+                <input type="text" id="hotel" name="hotel_name">
+                <div style="clear:both"></div>
+
+                <label for="sport" class="etiqueta">Activity Type</label>
+                <select id="sport" name="sport_type">
+                    <option value="Running">Running</option>
+                    <option value="cycling">Cycling</option>
+                </select>
+                <div style="clear:both"></div>
+
+                <label for="min_distance" class="etiqueta">Min Distance</label>
+                <input type="number" id="min_distance" name="min_distance_name">
+
+                <div style="clear:both"></div>
+                <label for="max_distance" class="etiqueta">Max Distance</label>
+                <input type="number" id="max_distance" name="max_distance_name">
+
+                <button id="btnsearch" type="submit" class="btn">Register</button>
+                <!--   <inputbtn type="submit" value="Submit" class="w3-blue">-->
+
+                <div style="clear:both"></div>
+            </form>
+
+            <div id=result>
+                <h2>Resultat: </h2>
+                <p>Hotel</p>
+                <p>Activity type</p>
+                <p>Min Distance</p>
+                <p>Max Distance</p>
+            </div>
+            
+            <div style="clear:both"></div>
 
         </div>
-    </div>
 
-    <div id="main_image">
+        <div class="column ">
+            <div id="map"></div>
+
+        </div>
+
     </div>
 
     <footer>Footer</footer>
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+    <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+    <script src="js/search.js"></script>
+    <script src="js/leaflet.js"></script>
 
 </body>
+
 
 </html>

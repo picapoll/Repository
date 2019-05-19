@@ -35,6 +35,10 @@
                 console.log(str);
             });
             
+            $("#btn_action").click(function(){
+                var str=$("#input_texto").val()
+                alert(str);
+            })
             
             
         });
@@ -54,6 +58,11 @@
     <button type="button" class="button">blue</button>
 
     <p id="p_result"></p>
+    
+    <input id="input_texto" type="input"></input>
+    <button id="btn_action" type="button">Accion</button>
+    
+    <p id="p_result">Resultado</p>
 
 </body>
 

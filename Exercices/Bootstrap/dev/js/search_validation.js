@@ -63,7 +63,7 @@ $("#Search-form").submit(function () {
             "tracks/mataro-corriols-fins-avorrir.gpx",
             "tracks/mataro-sant-andreu-de-llavaneres-mataro.gpx"
         ];
-
+        
 
     // Create Colors
         function get_my_color(hexcolor) {
@@ -77,17 +77,30 @@ $("#Search-form").submit(function () {
         }
 
         for (var i = 0; i < listOfFilesPath.length; i += 1) {
-           
+            var name = "";
+            var distance="";
+            console.log("log-> "+name + distance);
+         
             new L.GPX(listOfFilesPath[i], {
                 async: true, marker_options: {
                     startIconUrl: 'images/pin-icon-start.png',
                     endIconUrl: 'images/pin-icon-end.png',
                     shadowUrl: 'images/pin-shadow.png'
-                }, polyline_options: { color: get_my_color() }
+                }, polyline_options: { color: get_my_color() }               
                
-            }).addTo(mymap);
-             console.log(get_my_color);
-
+            }).on('loaded', function(e) {
+                var gpx=e.target;
+                         
+              //Distancia
+               distance =(gpx.get_distance());
+               name =(gpx.get_name());
+              var metros= x = Math.round(distance);
+              console.log("el nombre es: "+ name +" y la distancia en m del recorrido es de : "+ metros);
+             
+            }).addTo(mymap).bindPopup(name + "Distancia: "+ distance);
+           
+            console.log("log2-> "+name + distance);
+          
         }
 
     } else {

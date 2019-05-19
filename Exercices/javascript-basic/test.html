@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+
+<body>
+    <!--Form-->
+    <form name="calculadora" id="supercalculadora">
+        <p> Num1: <input type="number" name="num1" id="num1id"></p>
+        <p> Num2: <input type="number" name="num2"></p>
+        <p> Result: <input type="number" name="result" disabled></p>
+        <input type="button" id="demo" value="+" name="sum" onclick="myFunctionsum()">
+        <input type="button" value="-" name="rest" onclick="myFunctionrest()">
+        <input type="button" value="x" name="mult" onclick="myFunctionmult()">
+        <input type="button" value="/" name="Div" onclick="myFunctiondiv()">
+        <input type="button" name="Reseteo" value="Reset" onclick="myFunctionReset()">
+    </form>
+    <!--End Form-->
+    <script>
+    number1 = parseInt(document.calculadora.num1.value)
+    number2 = parseInt(document.calculadora.num2.value)
+
+
+    function myFunctionsum() {
+        console.log(number1 , number2);
+        number3 = number1 + number2;
+        document.calculadora.result.value=number3;
+
+    }
+
+    function myFunctionrest() {
+          console.log(number1 , number2);
+        number3 = number1 - number2;
+        document.calculadora.result.value =number3;
+    }
+
+    function myFunctionmult() {
+         console.log(number1 , number2);
+        number3 = number1 * number2;
+        document.calculadora.result.value=number3;
+    }
+
+    function myFunctiondiv() {
+         console.log(number1 , number2);
+        number3 = number1 / number2;
+        document.calculadora.result.value=number3;
+
+    }
+
+    function myFunctionReset(){
+    	document.getElementById('supercalculadora').reset();
+    	  console.log(number1 , number2);
+    }
+
+    function suma(x,y){
+    	document.writeln("x: " + x);
+    	document.writeln("y: "+y);
+    	return x+y;
+    }
+    suma(1);
+
+    var x=1;
+    if (x==1){
+    	function demo1 (x){
+    		return x*2;
+    	}
+    	}else{
+    		function demo1(x){
+    			return x*10;
+    		}
+    	} 
+ 
+    x = demo1(12);
+    console.log(x);
+
+    </script>
+</body>
+
+</html>

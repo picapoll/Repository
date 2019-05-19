@@ -1,0 +1,1089 @@
+Exercices/Bootstrap/listed2/listed/scss/style.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/utilities/_visibility.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/utilities/_text.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/utilities/_spacing.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/utilities/_sizing.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/utilities/_shadows.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/utilities/_screenreaders.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/utilities/_position.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/utilities/_float.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/utilities/_flex.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/utilities/_embed.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/utilities/_display.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/utilities/_clearfix.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/utilities/_borders.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/utilities/_background.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/mixins/_hover.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/mixins/_grid.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/mixins/_grid-framework.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/mixins/_gradients.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/mixins/_forms.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/mixins/_float.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/mixins/_clearfix.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/mixins/_caret.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/mixins/_buttons.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/mixins/_breakpoints.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/mixins/_box-shadow.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/mixins/_border-radius.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/mixins/_badge.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/mixins/_background-variant.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/mixins/_alert.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/bootstrap.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/_modal.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/_mixins.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/_media.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/_list-group.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/_jumbotron.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/_input-group.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/_images.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/_grid.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/_functions.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/_forms.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/_dropdown.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/_custom-forms.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/_code.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/_close.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/_carousel.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/_card.scss
+Exercices/Bootstrap/listed2/listed/js/mediaelement-and-player.min.js
+Exercices/Bootstrap/listed2/listed/js/main.js
+Exercices/Bootstrap/listed2/listed/js/jquery.stellar.min.js
+Exercices/Bootstrap/listed2/listed/js/jquery.magnific-popup.min.js
+Exercices/Bootstrap/listed2/listed/js/jquery.countdown.min.js
+Exercices/Bootstrap/listed2/listed/js/jquery-ui.js
+Exercices/Bootstrap/listed2/listed/js/jquery-migrate-3.0.1.min.js
+Exercices/Bootstrap/listed2/listed/js/jquery-3.3.1.min.js
+Exercices/Bootstrap/listed2/listed/js/bootstrap.min.js
+Exercices/Bootstrap/listed2/listed/js/bootstrap-datepicker.min.js
+Exercices/Bootstrap/listed2/listed/js/aos.js
+Exercices/Bootstrap/listed2/listed/js/.DS_Store
+Exercices/Bootstrap/listed2/listed/index.html
+Exercices/Bootstrap/listed2/listed/images/person_5.jpg
+Exercices/Bootstrap/listed2/listed/images/person_4.jpg
+Exercices/Bootstrap/listed2/listed/images/person_3.jpg
+Exercices/Bootstrap/listed2/listed/images/person_2.jpg
+Exercices/Bootstrap/listed2/listed/images/person_1.jpg
+Exercices/Bootstrap/listed2/listed/images/img_3.jpg
+Exercices/Bootstrap/listed2/listed/images/img_2.jpg
+Exercices/Bootstrap/listed2/listed/images/img_1.jpg
+Exercices/Bootstrap/listed2/listed/images/hero_1.jpg
+Exercices/Bootstrap/listed2/listed/images/.DS_Store
+Exercices/Bootstrap/listed2/listed/fonts/icomoon/style.css
+Exercices/Bootstrap/listed2/listed/fonts/icomoon/selection.json
+Exercices/Bootstrap/listed2/listed/fonts/icomoon/fonts/icomoon.woff
+Exercices/Bootstrap/listed2/listed/fonts/icomoon/fonts/icomoon.ttf
+Exercices/Bootstrap/listed2/listed/fonts/icomoon/fonts/icomoon.svg
+Exercices/Bootstrap/listed2/listed/fonts/icomoon/fonts/icomoon.eot
+Exercices/Bootstrap/listed2/listed/fonts/icomoon/demo.html
+Exercices/Bootstrap/listed2/listed/fonts/icomoon/demo-files/demo.js
+Exercices/Bootstrap/listed2/listed/fonts/icomoon/demo-files/demo.css
+Exercices/Bootstrap/listed2/listed/css/mediaelementplayer.css
+Exercices/Bootstrap/listed2/listed/css/magnific-popup.css
+Exercices/Bootstrap/listed2/listed/css/jquery-ui.css
+Exercices/Bootstrap/listed2/listed/css/bootstrap.min.css
+Exercices/Bootstrap/listed2/listed/css/bootstrap-datepicker.css
+Exercices/Bootstrap/listed2/listed/css/aos.css
+Exercices/Bootstrap/listed2/listed/css/.DS_Store
+Exercices/Bootstrap/listed2/listed/contact.html
+Exercices/Bootstrap/listed2/listed/blog.html
+Exercices/Bootstrap/listed2/listed/about.html
+Exercices/Bootstrap/listed2/listed/.DS_Store
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/utilities/.__visibility.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/utilities/.__text.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/utilities/.__spacing.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/utilities/.__sizing.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/utilities/.__shadows.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/mixins/.__size.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/mixins/.__screen-reader.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/mixins/.__resize.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/mixins/.__reset-text.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/mixins/.__pagination.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/mixins/.__nav-divider.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/mixins/.__lists.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/mixins/.__list-group.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/mixins/.__image.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/mixins/.__hover.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/mixins/.__grid.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/mixins/.__grid-framework.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/mixins/.__gradients.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/mixins/.__forms.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/mixins/.__float.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/mixins/.__clearfix.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/mixins/.__caret.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/mixins/.__buttons.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/.__input-group.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/.__images.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/.__grid.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/.__functions.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/.__forms.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/.__dropdown.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/.__custom-forms.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/.__code.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/.__close.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/.__carousel.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/.__card.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/.__buttons.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/.__button-group.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/.__breadcrumb.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/.__badge.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/.__alert.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/._style.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/._bootstrap
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/.__site-navbar.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/.__site-blocks.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/.__site-base.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/._.DS_Store
+Exercices/Bootstrap/listed2/__MACOSX/listed/js/._slick.min.js
+Exercices/Bootstrap/listed2/__MACOSX/listed/js/._rangeslider.min.js
+Exercices/Bootstrap/listed2/__MACOSX/listed/js/._popper.min.js
+Exercices/Bootstrap/listed2/__MACOSX/listed/js/._owl.carousel.min.js
+Exercices/Bootstrap/listed2/__MACOSX/listed/js/._mediaelement-and-player.min.js
+Exercices/Bootstrap/listed2/__MACOSX/listed/js/._main.js
+Exercices/Bootstrap/listed2/__MACOSX/listed/js/._jquery.stellar.min.js
+Exercices/Bootstrap/listed2/__MACOSX/listed/js/._jquery.magnific-popup.min.js
+Exercices/Bootstrap/listed2/__MACOSX/listed/js/._jquery.countdown.min.js
+Exercices/Bootstrap/listed2/__MACOSX/listed/js/._jquery-ui.js
+Exercices/Bootstrap/listed2/__MACOSX/listed/js/._jquery-migrate-3.0.1.min.js
+Exercices/Bootstrap/listed2/__MACOSX/listed/js/._jquery-3.3.1.min.js
+Exercices/Bootstrap/listed2/__MACOSX/listed/js/._bootstrap.min.js
+Exercices/Bootstrap/listed2/__MACOSX/listed/js/._bootstrap-datepicker.min.js
+Exercices/Bootstrap/listed2/__MACOSX/listed/js/._aos.js
+Exercices/Bootstrap/listed2/__MACOSX/listed/js/._.DS_Store
+Exercices/Bootstrap/listed2/__MACOSX/listed/images/._person_5.jpg
+Exercices/Bootstrap/listed2/__MACOSX/listed/images/._person_4.jpg
+Exercices/Bootstrap/listed2/__MACOSX/listed/images/._person_3.jpg
+Exercices/Bootstrap/listed2/__MACOSX/listed/images/._person_2.jpg
+Exercices/Bootstrap/listed2/__MACOSX/listed/images/._person_1.jpg
+Exercices/Bootstrap/listed2/__MACOSX/listed/images/._img_3.jpg
+Exercices/Bootstrap/listed2/__MACOSX/listed/images/._img_2.jpg
+Exercices/Bootstrap/listed2/__MACOSX/listed/images/._img_1.jpg
+Exercices/Bootstrap/listed2/__MACOSX/listed/images/._hero_1.jpg
+Exercices/Bootstrap/listed2/__MACOSX/listed/images/._.DS_Store
+Exercices/Bootstrap/listed2/__MACOSX/listed/fonts/icomoon/fonts/._icomoon.woff
+Exercices/Bootstrap/listed2/__MACOSX/listed/fonts/icomoon/fonts/._icomoon.ttf
+Exercices/Bootstrap/listed2/__MACOSX/listed/fonts/icomoon/fonts/._icomoon.svg
+Exercices/Bootstrap/listed2/__MACOSX/listed/fonts/icomoon/fonts/._icomoon.eot
+Exercices/Bootstrap/listed2/__MACOSX/listed/fonts/icomoon/demo-files/._demo.js
+Exercices/Bootstrap/listed2/__MACOSX/listed/fonts/icomoon/demo-files/._demo.css
+Exercices/Bootstrap/listed2/__MACOSX/listed/fonts/icomoon/._style.css
+Exercices/Bootstrap/listed2/__MACOSX/listed/fonts/icomoon/._selection.json
+Exercices/Bootstrap/listed2/__MACOSX/listed/fonts/icomoon/._fonts
+Exercices/Bootstrap/listed2/__MACOSX/listed/fonts/icomoon/._demo.html
+Exercices/Bootstrap/listed2/__MACOSX/listed/fonts/icomoon/._demo-files
+Exercices/Bootstrap/listed2/__MACOSX/listed/fonts/icomoon/._Read Me.txt
+Exercices/Bootstrap/listed2/__MACOSX/listed/fonts/flaticon/license/._license.pdf
+Exercices/Bootstrap/listed2/__MACOSX/listed/fonts/flaticon/font/._flaticon.html
+Exercices/Bootstrap/listed2/__MACOSX/listed/fonts/flaticon/font/._flaticon.css
+Exercices/Bootstrap/listed2/__MACOSX/listed/fonts/flaticon/font/.__flaticon.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/fonts/flaticon/font/._Flaticon.woff2
+Exercices/Bootstrap/listed2/__MACOSX/listed/fonts/flaticon/font/._Flaticon.woff
+Exercices/Bootstrap/listed2/__MACOSX/listed/fonts/flaticon/font/._Flaticon.ttf
+Exercices/Bootstrap/listed2/__MACOSX/listed/fonts/flaticon/font/._Flaticon.svg
+Exercices/Bootstrap/listed2/__MACOSX/listed/fonts/flaticon/font/._Flaticon.eot
+Exercices/Bootstrap/listed2/__MACOSX/listed/fonts/flaticon/._license
+Exercices/Bootstrap/listed2/__MACOSX/listed/fonts/flaticon/._font
+Exercices/Bootstrap/listed2/__MACOSX/listed/fonts/flaticon/._backup.txt
+Exercices/Bootstrap/listed2/__MACOSX/listed/fonts/._icomoon
+Exercices/Bootstrap/listed2/__MACOSX/listed/fonts/._.DS_Store
+Exercices/Bootstrap/listed2/__MACOSX/listed/css/._style.css
+Exercices/Bootstrap/listed2/__MACOSX/listed/css/._rangeslider.css
+Exercices/Bootstrap/listed2/__MACOSX/listed/css/._owl.theme.default.min.css
+Exercices/Bootstrap/listed2/__MACOSX/listed/css/._owl.carousel.min.css
+Exercices/Bootstrap/listed2/__MACOSX/listed/css/._mediaelementplayer.css
+Exercices/Bootstrap/listed2/__MACOSX/listed/css/._magnific-popup.css
+Exercices/Bootstrap/listed2/__MACOSX/listed/css/._jquery-ui.css
+Exercices/Bootstrap/listed2/__MACOSX/listed/css/._bootstrap.min.css
+Exercices/Bootstrap/listed2/__MACOSX/listed/css/._bootstrap-datepicker.css
+Exercices/Bootstrap/listed2/__MACOSX/listed/css/._aos.css
+Exercices/Bootstrap/listed2/__MACOSX/listed/css/._.DS_Store
+Exercices/Bootstrap/listed2/__MACOSX/listed/._scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/._js
+Exercices/Bootstrap/listed2/__MACOSX/listed/._index.html
+Exercices/Bootstrap/listed2/__MACOSX/listed/._images
+Exercices/Bootstrap/listed2/__MACOSX/listed/._fonts
+Exercices/Bootstrap/listed2/__MACOSX/listed/._css
+Exercices/Bootstrap/listed2/__MACOSX/listed/._contact.html
+Exercices/Bootstrap/listed2/__MACOSX/listed/._blog.html
+Exercices/Bootstrap/listed2/__MACOSX/listed/._about.html
+Exercices/Bootstrap/listed2/__MACOSX/listed/._.DS_Store
+Exercices/Bootstrap/listed2.zip
+Exercices/Bootstrap/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/js/bootstrap.min.js.map
+Exercices/Bootstrap/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/js/bootstrap.min.js
+Exercices/Bootstrap/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/js/bootstrap.js.map
+Exercices/Bootstrap/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/js/bootstrap.js
+Exercices/Bootstrap/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/js/bootstrap.bundle.min.js.map
+Exercices/Bootstrap/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/js/bootstrap.bundle.min.js
+Exercices/Bootstrap/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/js/bootstrap.bundle.js.map
+Exercices/Bootstrap/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/js/bootstrap.bundle.js
+Exercices/Bootstrap/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/css/bootstrap.min.css.map
+Exercices/Bootstrap/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/css/bootstrap.min.css
+Exercices/Bootstrap/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/css/bootstrap.css.map
+Exercices/Bootstrap/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/css/bootstrap.css
+Exercices/Bootstrap/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/css/bootstrap-reboot.min.css.map
+Exercices/Bootstrap/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/css/bootstrap-reboot.min.css
+Exercices/Bootstrap/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/css/bootstrap-reboot.css.map
+Exercices/Bootstrap/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/css/bootstrap-reboot.css
+Exercices/Bootstrap/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/css/bootstrap-grid.min.css.map
+Exercices/Bootstrap/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/css/bootstrap-grid.min.css
+Exercices/Bootstrap/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/css/bootstrap-grid.css.map
+Exercices/Bootstrap/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/css/bootstrap-grid.css
+Exercices/Bootstrap/bootstrap-4.3.1-dist.zip
+Exercices/Angular/my-app/tslint.json
+Exercices/Angular/my-app/tsconfig.json
+Exercices/Angular/my-app/src/tslint.json
+Exercices/Angular/my-app/src/tsconfig.spec.json
+Exercices/Angular/my-app/src/tsconfig.app.json
+Exercices/Angular/my-app/src/test.ts
+Exercices/Angular/my-app/src/styles.css
+Exercices/Angular/my-app/src/polyfills.ts
+Exercices/Angular/my-app/src/main.ts
+Exercices/Angular/my-app/src/karma.conf.js
+Exercices/Angular/my-app/src/index.html
+Exercices/Angular/my-app/src/favicon.ico
+Exercices/Angular/my-app/src/environments/environment.ts
+Exercices/Angular/my-app/src/environments/environment.prod.ts
+Exercices/Angular/my-app/src/browserslist
+Exercices/Angular/my-app/src/assets/.gitkeep
+Exercices/Angular/my-app/src/app/app.module.ts
+Exercices/Angular/my-app/src/app/app.component.ts
+Exercices/Angular/my-app/src/app/app.component.spec.ts
+Exercices/Angular/my-app/src/app/app.component.html
+Exercices/Angular/my-app/src/app/app.component.css
+Exercices/Angular/my-app/src/app/app-routing.module.ts
+Exercices/Angular/my-app/package.json
+Exercices/Angular/my-app/package-lock.json
+Exercices/Angular/my-app/e2e/tsconfig.e2e.json
+Exercices/Angular/my-app/e2e/src/app.po.ts
+Exercices/Angular/my-app/e2e/src/app.e2e-spec.ts
+Exercices/Angular/my-app/e2e/protractor.conf.js
+Exercices/Angular/my-app/angular.json
+Exercices/Angular/my-app/README.md
+Exercices/Angular/my-app/.gitignore
+Exercices/Angular/my-app/.editorconfig
+CheckinAndRun/test.html
+CheckinAndRun/.vs/slnx.sqlite
+CheckinAndRun/.vs/config/applicationhost.config
+CheckinAndRun/.vs/VSWorkspaceState.json
+CheckinAndRun/.vs/ProjectSettings.json
+CheckinAndRun/.vs/CheckinAndRun/v15/.suo
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/utilities/_align.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/mixins/_visibility.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/mixins/_transition.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/mixins/_text-truncate.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/mixins/_text-hide.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/mixins/_text-emphasis.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/mixins/_table-row.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/mixins/_size.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/mixins/_screen-reader.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/mixins/_resize.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/mixins/_reset-text.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/mixins/_pagination.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/mixins/_nav-divider.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/mixins/_lists.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/mixins/_list-group.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/mixins/_image.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/bootstrap-reboot.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/bootstrap-grid.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/_variables.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/_utilities.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/_type.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/_transitions.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/_tooltip.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/_tables.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/_root.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/_reboot.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/_progress.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/_print.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/_popover.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/_pagination.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/_navbar.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/_nav.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/_buttons.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/_button-group.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/_breadcrumb.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/_badge.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/_alert.scss
+Exercices/Bootstrap/listed2/listed/scss/bootstrap/.DS_Store
+Exercices/Bootstrap/listed2/listed/scss/_site-navbar.scss
+Exercices/Bootstrap/listed2/listed/scss/_site-blocks.scss
+Exercices/Bootstrap/listed2/listed/scss/_site-base.scss
+Exercices/Bootstrap/listed2/listed/scss/.DS_Store
+Exercices/Bootstrap/listed2/listed/listings.html
+Exercices/Bootstrap/listed2/listed/listings-single.html
+Exercices/Bootstrap/listed2/listed/js/typed.js
+Exercices/Bootstrap/listed2/listed/js/slick.min.js
+Exercices/Bootstrap/listed2/listed/js/rangeslider.min.js
+Exercices/Bootstrap/listed2/listed/js/popper.min.js
+Exercices/Bootstrap/listed2/listed/js/owl.carousel.min.js
+Exercices/Bootstrap/listed2/listed/fonts/icomoon/Read Me.txt
+Exercices/Bootstrap/listed2/listed/fonts/flaticon/license/license.pdf
+Exercices/Bootstrap/listed2/listed/fonts/flaticon/font/flaticon.html
+Exercices/Bootstrap/listed2/listed/fonts/flaticon/font/flaticon.css
+Exercices/Bootstrap/listed2/listed/fonts/flaticon/font/_flaticon.scss
+Exercices/Bootstrap/listed2/listed/fonts/flaticon/font/Flaticon.woff2
+Exercices/Bootstrap/listed2/listed/fonts/flaticon/font/Flaticon.woff
+Exercices/Bootstrap/listed2/listed/fonts/flaticon/font/Flaticon.ttf
+Exercices/Bootstrap/listed2/listed/fonts/flaticon/font/Flaticon.svg
+Exercices/Bootstrap/listed2/listed/fonts/flaticon/font/Flaticon.eot
+Exercices/Bootstrap/listed2/listed/fonts/flaticon/backup.txt
+Exercices/Bootstrap/listed2/listed/fonts/.DS_Store
+Exercices/Bootstrap/listed2/listed/css/style.css
+Exercices/Bootstrap/listed2/listed/css/rangeslider.css
+Exercices/Bootstrap/listed2/listed/css/owl.theme.default.min.css
+Exercices/Bootstrap/listed2/listed/css/owl.carousel.min.css
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/utilities/.__screenreaders.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/utilities/.__position.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/utilities/.__float.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/utilities/.__flex.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/utilities/.__embed.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/utilities/.__display.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/utilities/.__clearfix.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/utilities/.__borders.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/utilities/.__background.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/utilities/.__align.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/mixins/.__visibility.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/mixins/.__transition.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/mixins/.__text-truncate.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/mixins/.__text-hide.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/mixins/.__text-emphasis.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/mixins/.__table-row.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/mixins/.__breakpoints.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/mixins/.__box-shadow.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/mixins/.__border-radius.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/mixins/.__badge.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/mixins/.__background-variant.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/mixins/.__alert.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/._utilities
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/._mixins
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/._bootstrap.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/._bootstrap-reboot.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/._bootstrap-grid.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/.__variables.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/.__utilities.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/.__type.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/.__transitions.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/.__tooltip.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/.__tables.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/.__root.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/.__reboot.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/.__progress.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/.__print.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/.__popover.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/.__pagination.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/.__navbar.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/.__nav.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/.__modal.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/.__mixins.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/.__media.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/.__list-group.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/.__jumbotron.scss
+Exercices/Bootstrap/listed2/__MACOSX/listed/scss/bootstrap/._.DS_Store
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/test/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/test/exercici2.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/9 - Ventanas emergentes/3 - Ventana para ingreso de datos/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/9 - Ventanas emergentes/3 - Ventana para ingreso de datos/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/9 - Ventanas emergentes/3 - Ventana para ingreso de datos/boston.mp4
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/9 - Ventanas emergentes/2 - Ventana de confirmación/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/9 - Ventanas emergentes/2 - Ventana de confirmación/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/9 - Ventanas emergentes/2 - Ventana de confirmación/boston.mp4
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/9 - Ventanas emergentes/1 - Ventana de alerta/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/9 - Ventanas emergentes/1 - Ventana de alerta/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/9 - Ventanas emergentes/1 - Ventana de alerta/boston.mp4
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/8 - Eventos/5 - Uso de temporizadores o timers/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/8 - Eventos/5 - Uso de temporizadores o timers/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/8 - Eventos/4 - Eventos multimedia/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/8 - Eventos/4 - Eventos multimedia/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/8 - Eventos/4 - Eventos multimedia/boston.mp4
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/8 - Eventos/3 - Eventos de carga del documento/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/8 - Eventos/3 - Eventos de carga del documento/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/8 - Eventos/2 - Eventos del teclado/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/8 - Eventos/2 - Eventos del teclado/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/8 - Eventos/1 - Eventos del mouse/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/8 - Eventos/1 - Eventos del mouse/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/7 - Funciones o métodos/9 - Uso del operador this/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/7 - Funciones o métodos/9 - Uso del operador this/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/7 - Funciones o métodos/8 - Funciones arrow/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/7 - Funciones o métodos/8 - Funciones arrow/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/7 - Funciones o métodos/7 - Entendiendo los callbacks/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/7 - Funciones o métodos/7 - Entendiendo los callbacks/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/12 - Trabajando con arreglos/4 - Operaciones básicas de un arreglo/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/12 - Trabajando con arreglos/3 - Arreglo multidimensionales/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/12 - Trabajando con arreglos/3 - Arreglo multidimensionales/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/12 - Trabajando con arreglos/2 - Medir y acceder a un arreglo/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/12 - Trabajando con arreglos/2 - Medir y acceder a un arreglo/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/12 - Trabajando con arreglos/1 - Creando tu primer arreglo/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/12 - Trabajando con arreglos/1 - Creando tu primer arreglo/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/11 - Trabajando con cadenas de texto/8 - Plantillas y literales/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/11 - Trabajando con cadenas de texto/8 - Plantillas y literales/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/11 - Trabajando con cadenas de texto/7 - Métodos de transformación de texto/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/11 - Trabajando con cadenas de texto/7 - Métodos de transformación de texto/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/11 - Trabajando con cadenas de texto/6 - Métodos de generación, reemplazo y separación/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/11 - Trabajando con cadenas de texto/6 - Métodos de generación, reemplazo y separación/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/11 - Trabajando con cadenas de texto/5 - Métodos de busqueda parte 3/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/11 - Trabajando con cadenas de texto/5 - Métodos de busqueda parte 3/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/11 - Trabajando con cadenas de texto/4 - Métodos de busqueda parte 2/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/11 - Trabajando con cadenas de texto/4 - Métodos de busqueda parte 2/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/11 - Trabajando con cadenas de texto/3 - Métodos de busqueda parte 1/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/11 - Trabajando con cadenas de texto/3 - Métodos de busqueda parte 1/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/11 - Trabajando con cadenas de texto/2 - Medir una cadena de texto/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/11 - Trabajando con cadenas de texto/2 - Medir una cadena de texto/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/11 - Trabajando con cadenas de texto/1 - Creando cadenas de texto/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/11 - Trabajando con cadenas de texto/1 - Creando cadenas de texto/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/10 - Trabajando con números/3 - Métodos númericos de instancias/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/10 - Trabajando con números/3 - Métodos númericos de instancias/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/10 - Trabajando con números/2 - Métodos númericos/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/10 - Trabajando con números/2 - Métodos númericos/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/10 - Trabajando con números/1 - Propiedades númericas/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/10 - Trabajando con números/1 - Propiedades númericas/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/1 - Conociendo JavaScript/05 - Strict mode/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/1 - Conociendo JavaScript/05 - Strict mode/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/1 - Conociendo JavaScript/04 - Comentarios/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/1 - Conociendo JavaScript/04 - Comentarios/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/1 - Conociendo JavaScript/03 - Consola/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/1 - Conociendo JavaScript/03 - Consola/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/1 - Conociendo JavaScript/02 - Elementos básicos/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/1 - Conociendo JavaScript/02 - Elementos básicos/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/1 - Conociendo JavaScript/01 - Tu primer JavaScript/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/7 - Funciones o métodos/6 - Funciones anónimas/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/7 - Funciones o métodos/6 - Funciones anónimas/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/7 - Funciones o métodos/5 - Parámetros de tipo SPREAD/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/7 - Funciones o métodos/5 - Parámetros de tipo SPREAD/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/7 - Funciones o métodos/4 - Parámetros de tipo REST/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/7 - Funciones o métodos/4 - Parámetros de tipo REST/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/7 - Funciones o métodos/3 - Inicialización de parámetros/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/7 - Funciones o métodos/3 - Inicialización de parámetros/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/7 - Funciones o métodos/2 - Parámetros de una función/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/7 - Funciones o métodos/2 - Parámetros de una función/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/7 - Funciones o métodos/1 - Estructura básica de una función/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/7 - Funciones o métodos/1 - Estructura básica de una función/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/6 - Ciclos o loops/4 - Controlando los ciclos/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/6 - Ciclos o loops/4 - Controlando los ciclos/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/6 - Ciclos o loops/3 - Ciclo DO...WHILE/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/6 - Ciclos o loops/3 - Ciclo DO...WHILE/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/2 - Variables/1 - Variables/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/2 - Variables/1 - Variables/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/17 - Solución y manejo de errores/4 - Uso de debugger/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/17 - Solución y manejo de errores/4 - Uso de debugger/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/17 - Solución y manejo de errores/3 - Depurando tu código/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/17 - Solución y manejo de errores/3 - Depurando tu código/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/17 - Solución y manejo de errores/2 - Errores personalizados/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/17 - Solución y manejo de errores/2 - Errores personalizados/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/17 - Solución y manejo de errores/1 - Manejo de errores/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/17 - Solución y manejo de errores/1 - Manejo de errores/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/16 - Programación orientada a objetos/3 - Herencia de  metódos y propiedades/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/16 - Programación orientada a objetos/3 - Herencia de  metódos y propiedades/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/16 - Programación orientada a objetos/2 - Objetos, sus métodos y sus propiedades/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/16 - Programación orientada a objetos/2 - Objetos, sus métodos y sus propiedades/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/16 - Programación orientada a objetos/1 - Trabajando con Clases/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/16 - Programación orientada a objetos/1 - Trabajando con Clases/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/15 - Trabajando con datos remotos o externos/3 - Manejo de errores/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/15 - Trabajando con datos remotos o externos/3 - Manejo de errores/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/15 - Trabajando con datos remotos o externos/2 - Trabajando con promesas/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/15 - Trabajando con datos remotos o externos/2 - Trabajando con promesas/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/15 - Trabajando con datos remotos o externos/1 - Obteniendo datos con fetch/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/15 - Trabajando con datos remotos o externos/1 - Obteniendo datos con fetch/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/14 - Conociendo el DOM y el BOM/3 - Propiedades y métodos del BOM/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/14 - Conociendo el DOM y el BOM/2 - Propiedades y métodos del DOM/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/14 - Conociendo el DOM y el BOM/2 - Propiedades y métodos del DOM/foto2.JPG
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/14 - Conociendo el DOM y el BOM/2 - Propiedades y métodos del DOM/foto1.JPG
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/14 - Conociendo el DOM y el BOM/1 - Entendiendo el DOM y el BOM/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/13 - Búsquedas en arreglos/6 - Validación de elementos de un arreglo/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/13 - Búsquedas en arreglos/6 - Validación de elementos de un arreglo/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/13 - Búsquedas en arreglos/5 - Filtrar arreglos/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/13 - Búsquedas en arreglos/5 - Filtrar arreglos/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/13 - Búsquedas en arreglos/4 - Busqueda de indice de elementos/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/13 - Búsquedas en arreglos/4 - Busqueda de indice de elementos/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/13 - Búsquedas en arreglos/3 - Buscando en un arreglo/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/13 - Búsquedas en arreglos/3 - Buscando en un arreglo/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/13 - Búsquedas en arreglos/2 - Iterando arreglos con forEach/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/13 - Búsquedas en arreglos/2 - Iterando arreglos con forEach/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/13 - Búsquedas en arreglos/1 - Iterando arreglos con for...in/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/13 - Búsquedas en arreglos/1 - Iterando arreglos con for...in/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/12 - Trabajando con arreglos/7 - Desestructuración de arreglos/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/12 - Trabajando con arreglos/7 - Desestructuración de arreglos/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/12 - Trabajando con arreglos/6 - Ordenando un arreglo/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/12 - Trabajando con arreglos/6 - Ordenando un arreglo/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/12 - Trabajando con arreglos/5 - Generación de arreglos con split from() y of()/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/12 - Trabajando con arreglos/5 - Generación de arreglos con split from() y of()/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/12 - Trabajando con arreglos/4 - Operaciones básicas de un arreglo/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/6 - Ciclos o loops/2 - Ciclo WHILE/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/6 - Ciclos o loops/2 - Ciclo WHILE/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/6 - Ciclos o loops/1 - Ciclo FOR/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/6 - Ciclos o loops/1 - Ciclo FOR/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/5 - Condiciones o decisiones/5 - Estructura SWITCH/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/5 - Condiciones o decisiones/5 - Estructura SWITCH/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/5 - Condiciones o decisiones/4 - Condiciones anidadas/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/5 - Condiciones o decisiones/4 - Condiciones anidadas/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/5 - Condiciones o decisiones/3 - Condición IF-ELSE-IF/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/5 - Condiciones o decisiones/3 - Condición IF-ELSE-IF/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/5 - Condiciones o decisiones/2 - Condición IF-ELSE/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/5 - Condiciones o decisiones/2 - Condición IF-ELSE/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/5 - Condiciones o decisiones/1 - Condición IF/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/5 - Condiciones o decisiones/1 - Condición IF/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/4 - Operadores/8 - Operador de tipo de datos/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/4 - Operadores/8 - Operador de tipo de datos/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/4 - Operadores/7 - Operador ternario o condicional/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/4 - Operadores/7 - Operador ternario o condicional/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/4 - Operadores/6 - Operador de concatenación/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/4 - Operadores/6 - Operador de concatenación/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/4 - Operadores/5 - Operador negativo/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/4 - Operadores/5 - Operador negativo/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/4 - Operadores/4 - Operadores de asignación/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/4 - Operadores/4 - Operadores de asignación/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/4 - Operadores/3 - Operadores lógicos/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/4 - Operadores/3 - Operadores lógicos/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/4 - Operadores/2 - Operadores relacionales/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/4 - Operadores/2 - Operadores relacionales/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/4 - Operadores/1 - Operadores aritméticos/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/4 - Operadores/1 - Operadores aritméticos/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/3 - Tipos de datos/6 - JSON/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/3 - Tipos de datos/6 - JSON/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/3 - Tipos de datos/5 - Symbol/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/3 - Tipos de datos/5 - Symbol/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/3 - Tipos de datos/4 - Date/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/3 - Tipos de datos/4 - Date/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/3 - Tipos de datos/3 - Booleanos/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/3 - Tipos de datos/3 - Booleanos/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/3 - Tipos de datos/2 - Texto/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/3 - Tipos de datos/2 - Texto/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/3 - Tipos de datos/1 -  Numéricos/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/3 - Tipos de datos/1 -  Numéricos/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/2 - Variables/3 - Contenedores const/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/2 - Variables/3 - Contenedores const/index.html
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/2 - Variables/2 - Contenedores let/js/app.js
+Exercices/javascript-basic/archivos_base_javascript/archivos_base_javascript/2 - Variables/2 - Contenedores let/index.html
+Exercices/javascript-basic/archivos_base_javascript.zip
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/checkout/index.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/checkout/form-validation.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/checkout/form-validation.css
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/carousel/index.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/carousel/carousel.css
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/blog/index.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/blog/blog.css
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/album/index.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/album/album.css
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/.stylelintrc
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/content/typography.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/content/tables.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/content/reboot.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/content/images.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/components/forms.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/components/dropdowns.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/components/collapse.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/components/carousel.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/components/card.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/components/buttons.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/components/button-group.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/components/breadcrumb.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/components/badge.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/components/alerts.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/browser-bugs.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/scss/docs.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/scss/_variables.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/scss/_syntax.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/scss/_skippy.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/scss/_sidebar.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/favicons/mstile-70x70.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/favicons/mstile-310x310.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/favicons/mstile-310x150.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/favicons/mstile-150x150.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/favicons/mstile-144x144.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/favicons/manifest.json
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/favicons/favicon-32x32.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/favicons/favicon-16x16.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/favicons/browserconfig.xml
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/favicons/apple-touch-icon.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/favicons/android-chrome-512x512.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/favicons/android-chrome-192x192.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/sticky-footer@2x.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/sticky-footer.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/sticky-footer-navbar@2x.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/sticky-footer-navbar.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/pricing.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/offcanvas@2x.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/offcanvas.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/navbars@2x.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/navbars.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/navbar-static@2x.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/navbar-static.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/navbar-fixed@2x.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/navbar-fixed.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/navbar-bottom@2x.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/navbar-bottom.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/jumbotron@2x.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/jumbotron.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/grid@2x.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/grid.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/floating-labels@2x.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/floating-labels.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/dashboard@2x.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/dashboard.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/cover@2x.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/cover.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/checkout@2x.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/checkout.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/carousel@2x.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/carousel.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/blog@2x.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/blog.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/album@2x.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/album.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/bootstrap-themes@2x.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/bootstrap-themes.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/css/docs.min.css.map
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/css/docs.min.css
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/brand/bootstrap-solid.svg
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/brand/bootstrap-social.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/brand/bootstrap-social-logo.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/brand/bootstrap-punchout.svg
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/brand/bootstrap-outline.svg
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/about/translations.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/about/team.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/about/overview.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/about/license.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/about/brand.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_layouts/simple.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_layouts/home.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_layouts/examples.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_layouts/docs.html
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/js/locales/tr.js
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/js/locales/ru.js
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/js/locales/ro.js
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/js/locales/pt-BR.js
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/js/locales/pl.js
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/js/locales/ko.js
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/js/locales/kk.js
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/js/locales/it.js
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/js/locales/fr.js
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/js/locales/fa.js
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/js/locales/es.js
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/js/locales/de.js
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/js/locales/bn.js
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/js/locales/ar.js
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/js/locales/LANG.js
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/img/loading.gif
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/examples/sample.html
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/examples/index.html
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/css/star-rating.min.css
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/css/star-rating.css
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/composer.json
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/bower.json
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/README.md
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/LICENSE.md
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/CHANGE.md
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/.github/PULL_REQUEST_TEMPLATE.md
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/.github/ISSUE_TEMPLATE.md
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/.github/CONTRIBUTING.md
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22.zip
+Exercices/Bootstrap/dev/tracks/mataro-sant-andreu-de-llavaneres-mataro.gpx
+Exercices/Bootstrap/dev/tracks/mataro-corriols-fins-avorrir.gpx
+Exercices/Bootstrap/dev/js/star-rating.js
+Exercices/Bootstrap/dev/js/rateyo.js
+Exercices/Bootstrap/dev/images/pin-shadow.png
+Exercices/Bootstrap/dev/images/pin-icon-wpt.png
+Exercices/Bootstrap/dev/css/star-rating.css
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/sw.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/robots.txt
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/index.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/favicon.ico
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/versions.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/utilities/visibility.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/utilities/vertical-align.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/utilities/text.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/utilities/stretched-link.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/utilities/spacing.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/utilities/sizing.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/utilities/shadows.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/utilities/screen-readers.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/utilities/position.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/utilities/overflow.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/utilities/image-replacement.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/utilities/float.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/utilities/flex.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/utilities/embed.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/utilities/display.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/utilities/colors.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/utilities/close-icon.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/utilities/clearfix.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/utilities/borders.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/migration.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/layout/utilities-for-layout.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/layout/overview.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/layout/grid.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/getting-started/webpack.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/getting-started/theming.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/getting-started/javascript.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/getting-started/introduction.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/getting-started/download.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/getting-started/contents.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/getting-started/build-tools.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/getting-started/browsers-devices.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/getting-started/best-practices.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/getting-started/accessibility.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/extend/icons.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/extend/approach.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/sticky-footer/sticky-footer.css
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/sticky-footer/index.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/sticky-footer-navbar/sticky-footer-navbar.css
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/sticky-footer-navbar/index.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/starter-template/starter-template.css
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/starter-template/index.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/sign-in/signin.css
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/sign-in/index.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/product/product.css
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/product/index.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/pricing/pricing.css
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/pricing/index.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/offcanvas/offcanvas.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/offcanvas/offcanvas.css
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/offcanvas/index.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/navbars/navbar.css
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/navbars/index.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/navbar-static/navbar-top.css
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/navbar-static/index.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/navbar-fixed/navbar-top-fixed.css
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/navbar-fixed/index.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/navbar-bottom/index.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/jumbotron/jumbotron.css
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/jumbotron/index.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/index.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/grid/index.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/grid/grid.css
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/floating-labels/index.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/floating-labels/floating-labels.css
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/dashboard/index.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/dashboard/dashboard.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/dashboard/dashboard.css
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/cover/index.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/examples/cover/cover.css
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/tests/visual/popover.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/tests/visual/modal.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/tests/visual/dropdown.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/tests/visual/collapse.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/tests/visual/carousel.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/tests/visual/button.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/tests/visual/alert.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/tests/unit/util.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/tests/unit/tooltip.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/tests/unit/toast.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/tests/unit/tab.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/tests/unit/scrollspy.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/tests/unit/popover.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/tests/unit/modal.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/tests/unit/dropdown.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/tests/unit/collapse.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/dist/tab.js.map
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/dist/tab.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/dist/scrollspy.js.map
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/dist/scrollspy.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/dist/popover.js.map
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/dist/popover.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/dist/modal.js.map
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/dist/modal.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/dist/index.js.map
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/dist/index.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/dist/dropdown.js.map
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/dist/dropdown.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/dist/collapse.js.map
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/dist/collapse.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/dist/carousel.js.map
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/dist/carousel.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/dist/css/bootstrap-reboot.min.css.map
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/dist/css/bootstrap-reboot.min.css
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/dist/css/bootstrap-reboot.css.map
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/dist/css/bootstrap-reboot.css
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/dist/css/bootstrap-grid.min.css.map
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/dist/css/bootstrap-grid.min.css
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/dist/css/bootstrap-grid.css.map
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/dist/css/bootstrap-grid.css
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/composer.json
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/build/vnu-jar.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/build/svgo.yml
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/build/ship.sh
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/build/rollup.config.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/build/postcss.config.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/build/generate-sri.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/build/change-version.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_layouts/default.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_includes/stylesheet.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_includes/social.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_includes/skippy.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_includes/scripts.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_includes/icons/twitter.svg
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_includes/icons/slack.svg
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_includes/icons/placeholder.svg
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_includes/icons/opencollective.svg
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_includes/icons/menu.svg
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_includes/icons/lightning.svg
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_includes/icons/import.svg
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_includes/icons/github.svg
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_includes/icons/download.svg
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_includes/icons/bootstrap.svg
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_includes/icons/bootstrap-stack.svg
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_includes/header.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_includes/footer.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_includes/favicons.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_includes/example.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_includes/docs-sidebar.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_includes/docs-navbar.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_includes/callout.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_includes/callout-warning-color-assistive-technologies.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_includes/callout-info-prefersreducedmotion.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_includes/callout-info-mediaqueries-breakpoints.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_includes/callout-danger-async-methods.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_includes/bugify.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_includes/analytics.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_includes/ads.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_data/translations.yml
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_data/theme-colors.yml
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_data/nav.yml
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_data/grays.yml
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_data/examples.yml
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_data/docs-versions.yml
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_data/core-team.yml
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_data/colors.yml
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_data/browser-features.yml
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_data/browser-bugs.yml
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/_data/breakpoints.yml
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/.eslintrc.json
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/vendor/_rfs.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/utilities/_visibility.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/utilities/_text.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/utilities/_stretched-link.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/utilities/_spacing.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/utilities/_sizing.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/utilities/_shadows.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/utilities/_screenreaders.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/utilities/_position.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/utilities/_overflow.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/utilities/_float.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/utilities/_flex.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/utilities/_embed.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/utilities/_display.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/utilities/_clearfix.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/utilities/_borders.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/utilities/_background.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/utilities/_align.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/mixins/_visibility.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/mixins/_transition.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/mixins/_text-truncate.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/mixins/_text-hide.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/mixins/_text-emphasis.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/mixins/_table-row.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/mixins/_size.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/mixins/_screen-reader.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/mixins/_resize.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/mixins/_reset-text.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/mixins/_pagination.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/mixins/_nav-divider.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/mixins/_lists.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/mixins/_list-group.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/mixins/_image.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/mixins/_hover.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/mixins/_grid.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/mixins/_grid-framework.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/mixins/_gradients.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/mixins/_forms.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/mixins/_float.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/mixins/_deprecate.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/mixins/_clearfix.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/mixins/_caret.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/mixins/_buttons.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/mixins/_breakpoints.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/mixins/_box-shadow.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/mixins/_border-radius.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/mixins/_badge.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/mixins/_background-variant.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/mixins/_alert.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/bootstrap.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/bootstrap-reboot.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/bootstrap-grid.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_variables.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_utilities.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_type.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_transitions.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_tooltip.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_toasts.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_tables.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_spinners.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_root.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_reboot.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_progress.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_print.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_popover.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_pagination.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_navbar.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_nav.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_modal.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_mixins.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_media.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_list-group.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_jumbotron.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_input-group.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_images.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_grid.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_functions.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_forms.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_dropdown.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_custom-forms.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_code.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_close.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_carousel.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_card.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_buttons.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_button-group.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_breadcrumb.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_badge.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/scss/_alert.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/package.json
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/package.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/package-lock.json
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/nuget/bootstrap.sass.nuspec
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/nuget/bootstrap.nuspec
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/nuget/MyGet.ps1
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/tests/visual/tooltip.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/tests/visual/toast.html
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/themes/krajee-svg/theme.min.css
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/themes/krajee-svg/theme.js
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/themes/krajee-svg/theme.css
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/themes/krajee-fas/theme.min.js
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/themes/krajee-fas/theme.min.css
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/themes/krajee-fas/theme.js
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/themes/krajee-fas/theme.css
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/themes/krajee-fa/theme.min.js
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/themes/krajee-fa/theme.min.css
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/themes/krajee-fa/theme.js
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/themes/krajee-fa/theme.css
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/package.json
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/js/star-rating.min.js
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/js/star-rating.js
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/js/locales/zh.js
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/js/locales/ua.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/content/figures.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/content/code.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/components/tooltips.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/components/toasts.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/components/spinners.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/components/scrollspy.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/components/progress.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/components/popovers.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/components/pagination.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/components/navs.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/components/navbar.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/components/modal.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/components/media-object.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/components/list-group.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/components/jumbotron.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/components/input-group.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/scss/_placeholder-img.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/scss/_nav.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/scss/_masthead.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/scss/_footer.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/scss/_content.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/scss/_component-examples.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/scss/_colors.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/scss/_clipboard-js.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/scss/_callouts.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/scss/_buttons.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/scss/_browser-bugs.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/scss/_brand.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/scss/_anchor.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/scss/_algolia.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/scss/_ads.scss
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/js/vendor/jquery-slim.min.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/js/vendor/clipboard.min.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/js/vendor/bs-custom-file-input.min.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/js/vendor/anchor.min.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/js/src/search.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/js/src/ie-emulation-modes-warning.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/js/src/application.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/js/docs.min.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/favicons/safari-pinned-tab.svg
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/starter-template@2x.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/starter-template.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/sign-in@2x.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/sign-in.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/product@2x.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/product.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/site/docs/4.3/assets/img/examples/pricing@2x.png
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/tests/visual/scrollspy.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/src/toast.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/src/tab.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/src/scrollspy.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/src/popover.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/src/modal.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/src/index.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/src/dropdown.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/src/collapse.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/src/carousel.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/src/button.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/src/alert.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/dist/util.js.map
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/dist/util.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/dist/tooltip.js.map
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/dist/tooltip.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/dist/toast.js.map
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/dist/button.js.map
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/dist/button.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/dist/alert.js.map
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/dist/alert.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/dist/js/bootstrap.min.js.map
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/dist/js/bootstrap.min.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/dist/js/bootstrap.js.map
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/dist/js/bootstrap.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/dist/js/bootstrap.bundle.min.js.map
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/dist/js/bootstrap.bundle.min.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/dist/js/bootstrap.bundle.js.map
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/dist/js/bootstrap.bundle.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/dist/css/bootstrap.min.css.map
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/dist/css/bootstrap.min.css
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/dist/css/bootstrap.css.map
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/dist/css/bootstrap.css
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/build/build-plugins.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/build/banner.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/build/.eslintrc.json
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/_config.yml
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/README.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/LICENSE
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/Gemfile.lock
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/Gemfile
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/CODE_OF_CONDUCT.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/CNAME
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/.travis.yml
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/.stylelintrc
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/.stylelintignore
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/.gitignore
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/.github/SUPPORT.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/.github/ISSUE_TEMPLATE/feature_request.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/.github/ISSUE_TEMPLATE/feature.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/.github/ISSUE_TEMPLATE/bug_report.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/.github/ISSUE_TEMPLATE/bug.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/.github/CONTRIBUTING.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/.github/CODEOWNERS
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/.gitattributes
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/.eslintrc.json
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/.eslintignore
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/.editorconfig
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/.browserslistrc
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/.babelrc.js
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/themes/krajee-uni/theme.min.js
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/themes/krajee-uni/theme.min.css
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/themes/krajee-uni/theme.js
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/themes/krajee-uni/theme.css
+Exercices/Bootstrap/kartik-v-bootstrap-star-rating-v4.0.5-3-gda95c22/kartik-v-bootstrap-star-rating-da95c22/themes/krajee-svg/theme.min.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/tests/unit/carousel.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/tests/unit/button.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/tests/unit/alert.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/tests/unit/.eslintrc.json
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/tests/karma.conf.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/tests/integration/rollup.bundle.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/tests/integration/index.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/tests/integration/bundle.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/tests/index.html
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/tests/browsers.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/tests/README.md
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/src/util.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/src/tooltip.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/src/tools/sanitizer.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/dist/toast.js
+Exercices/Bootstrap/bootstrap-4.3.1/bootstrap-4.3.1/js/tests/visual/tab.html

@@ -1,65 +1,170 @@
-
-header {
-    background-color: #838283;
-    display: block;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    width: 100%;
-    border-radius: 0px;
+html,
+body {
+    height: 100%;
+    margin: 0;
 }
 
 .navbar {
     width: 100%;
+    height: 9%;
     background-color: #555;
     overflow: auto;
 }
 
-.logo{
+.logo {
     display: inline-block;
     vertical-align: top;
     width: 50px;
-    height: 50px;
+    height: 90%;
+    padding: 8px;
     margin-right: 20px;
-    
+
 }
-.navbar a{
+
+.navbar a {
     float: right;
     text-align: center;
     color: white;
     padding: 15px;
 }
 
+.content {
+    height: 85%;
+    position: relative;
+}
 
-.column{
-  float: left;
-  width: 50%;
-  height: 250px;
-  padding: 10px
+.column {
+    float: left;
+    width: 50%;
+    height: 100%;
+    padding: 0px;
+    border: 5px;
 }
 
 
 .content:after {
-  content: "";
-  display: table;
-  clear: both;
+    content: "";
+    display: table;
+    clear: both;
+ 
 }
 
 
 @media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-  }
+    .column {
+        width: 100%;
+    }
 }
 
-#main_image{
-    background-size: auto;
-    height: 300px;
-    width: 100%;
-    background: url( /img/run.jpg);
-    background-repeat:no-repeat;
+form {
+    margin: 0 auto;
+    width: 400px;
+    padding: 1em;
+ 
+    border-radius: 1em;
 }
 
+#search {
+    width: 80%;
+    
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 10px;
+    color: dodgerblue;
+    margin-left: 15px;
+    margin-top: 15px;
+    position: relative;
+
+
+}
+
+.fila{
+    width: 100%;  
+    margin-top: 5px;
+    margin-bottom: 5px;
+    float:right;
+    
+    
+    
+}
+.etiqueta{
+    width: 40%;
+    color: dodgerblue;
+    padding: 12px 20px;
+    float: left;
+    border: 2px;
+
+}
+
+select {
+    width: 60%;
+    padding: 12px 20px;
+    margin: 5px 0;
+    display:inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=text],
+select {
+    width: 60%;
+    padding: 12px 20px;
+    margin: 5px 0;
+    display:inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    
+    
+}
+
+
+input[type=number],
+select {
+    width: 60%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+
+input[type=submit] {
+    width: 30%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border-radius: 6px;
+    cursor: pointer;
+    right: 10px;
+    float: right;
+}
+
+.btn {
+    color: white;
+    background-color: dodgerblue;
+    float: right;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+    
+}
+
+/*#main_image{
+  
+     background-size:cover;
+ 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}*/
 footer {
+    height: 6%;
     position: fixed;
     left: 0;
     bottom: 0;
@@ -67,4 +172,10 @@ footer {
     background-color: #838283;
     color: white;
     text-align: center;
+}
+
+
+#map { 
+    height: 100%;
+ 
 }
